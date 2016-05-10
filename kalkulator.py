@@ -1,5 +1,4 @@
-def dodawanie():
-a=int(input())
-b=int(intput())
-print(a+b)
+def dodawanie(a,b):
+	return a+b
+
 dodawanie()
